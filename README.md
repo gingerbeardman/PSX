@@ -1,7 +1,7 @@
 # PSX
 Various things for PSX (PlayStation 1, PSone)
 
-* [PSXONPSP660.BIN](PSXONPSP660.BIN)
+* [PSXONPSP660.BIN](https://github.com/gingerbeardman/PSX/raw/master/PSXONPSP660.BIN)
  
   This is the PSX BIOS included in PSP firmware 6.60. It has been optimised/enhanced/improved by Sony compared to the "traditional" PSX BIOS versions extracted from PSX hardware that we have all been using for years. This BIOS enables enhanced performance and compatibility in all emulators and is region free. It can be renamed. *Have fun!*
 
